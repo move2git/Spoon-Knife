@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: TicketBooking
+  description: Microservice for TicketBooking
+  tags:
+    - java
+    - springboot
+  annotations:
+    ira-project-key: Unknown
