@@ -1,9 +1,1 @@
-### Well hello there!
-
-This repository is meant to provide an example for *forking* a repository on GitHub.
-
-Creating a *fork* is producing a personal copy of someone else's project. Forks act as a sort of bridge between the original repository and your personal copy. You can submit *Pull Requests* to help make other people's projects better by offering your changes up to the original project. Forking is at the core of social coding at GitHub.
-
-After forking this repository, you can make some changes to the project, and submit [a Pull Request](https://github.com/octocat/Spoon-Knife/pulls) as practice.
-
-For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
+��e�����]����������ѡ�ɔ�()Q��́ɕ��ͥѽ�䁥́����ЁѼ��ɽ٥�������ᅵ������Ȁ���ɭ�������ɕ��ͥѽ�䁽����!Ո�()ɕ�ѥ��������ɬ���́�ɽ�Ս���������ͽ�������䁽��ͽ��������͔�́�ɽ���и��ɭ́��Ё�́��ͽ�Ё����ɥ�������ݕ���ѡ���ɥ������ɕ��ͥѽ�䁅�����ȁ���ͽ�������丁e�ԁ�����Չ��Ѐ�Aձ��I��Օ��̨�Ѽ������������ѡ�ȁ�������́�ɽ����́���ѕȁ�䁽���ɥ�����ȁ������́���Ѽ�ѡ���ɥ�������ɽ���и��ɭ�����́�Ёѡ����ɔ����ͽ�������������Ё��!Ո�()�ѕȁ��ɭ����ѡ�́ɕ��ͥѽ�䰁�ԁ���������ͽ���������́Ѽ�ѡ���ɽ���а������Չ��Ёm��Aձ��I��Օ��t������輽��ѡՈ�������ѽ��нM�����-������ձ�̤��́�Ʌ�ѥ���()�ȁͽ�����ɔ�����ɵ�ѥ��������܁Ѽ���ɬ���ɕ��ͥѽ�䰁m��������Ё��ȁ�ե������ɭ����Aɽ����̈�t�����輽�ե��̹��ѡՈ������ٕ�٥��̽��ɭ�������Q����̄�����ɭ����}������
